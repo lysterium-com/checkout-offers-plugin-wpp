@@ -24,4 +24,4 @@ include_once plugin_dir_path(__FILE__) . 'includes/class-checkout-offers.php';
 
 
 $checkoutOffers = new CheckoutOffers();
-$checkoutOffers->init("https://checkout-offers-admin.placidas.com");
+$checkoutOffers->init("https://checkout-offers.lysterium.com");
